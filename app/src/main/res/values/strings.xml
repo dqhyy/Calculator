@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_c">C</string>
+    <string name="desc_button_c">Clear the input</string>
+    <string name="button_ce">CE</string>
+    <string name="desc_button_ce">Clear all input</string>
+    <string name="button_bs">BS</string>
+    <string name="desc_button_bs">Backspace</string>
+    <string name="button_divide">/</string>
+    <string name="desc_button_divide">Divide the input</string>
+    <string name="button_7">7</string>
+    <string name="desc_button_7">Number seven</string>
+    <string name="button_8">8</string>
+    <string name="desc_button_8">Number eight</string>
+    <string name="button_9">9</string>
+    <string name="desc_button_9">Number nine</string>
+    <string name="button_multiply">x</string>
+    <string name="desc_button_multiply">Multiply the input</string>
+    <string name="button_4">4</string>
+    <string name="desc_button_4">Number four</string>
+    <string name="button_5">5</string>
+    <string name="desc_button_5">Number five</string>
+    <string name="button_6">6</string>
+    <string name="desc_button_6">Number six</string>
+    <string name="button_minus">-</string>
+    <string name="desc_button_minus">Subtract the input</string>
+    <string name="button_1">1</string>
+    <string name="desc_button_1">Number one</string>
+    <string name="button_2">2</string>
+    <string name="desc_button_2">Number two</string>
+    <string name="button_3">3</string>
+    <string name="desc_button_3">Number three</string>
+    <string name="button_plus">+</string>
+    <string name="desc_button_plus">Add the input</string>
+    <string name="button_plus_minus">+/-</string>
+    <string name="desc_button_plus_minus">Toggle positive/negative</string>
+    <string name="type_0">0</string>
+    <string name="desc_button_0">Number zero</string>
+    <string name="button_dot">.</string>
+    <string name="desc_button_dot">Decimal point</string>
+    <string name="button_equals">=</string>
+    <string name="desc_button_equals">Calculate the result</string>
+</resources>
